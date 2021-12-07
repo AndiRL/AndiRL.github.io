@@ -1,3 +1,3 @@
-# Welcome to Andrea Lang's Website
+# Welcome to my Website
 
 ![Fairy](fairy.png)
