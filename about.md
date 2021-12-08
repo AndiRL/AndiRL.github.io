@@ -2,6 +2,6 @@
 
 ## **About my Website**
 
-p align="center">
+p align="center"
     <![Fairy](fairy.png)>
 </p>
