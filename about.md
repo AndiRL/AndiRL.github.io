@@ -3,7 +3,6 @@
 
 ## **About my Website**
 
-
 <p align="center">
-    <![Fairy](fairy.png)>
+    <img scr="C:\Users\Andi\Sites\AndiRL.github.io\fairy.png" />
 </p>
