@@ -2,4 +2,4 @@
 
 ## **About my Website**
 
-![Fairy](fairy.png)
+![Fairy](fairy.png#center)
