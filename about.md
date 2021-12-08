@@ -3,8 +3,8 @@
 
 ## **About my Website**
 
-![Fairy](/fairy.png#center)
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
+<p align="center">
+
+    <img src="fairy.png">
+
+</p>
