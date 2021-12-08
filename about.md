@@ -2,4 +2,6 @@
 
 ## **About my Website**
 
-![Fairy](fairy.png#center)
+p align="center">
+    <![Fairy](fairy.png)>
+</p>
