@@ -1,5 +1,5 @@
-# **About arlang.me**
+# **Welcome to arlang.me**
 
-## Welcome to my Website
+## About my Website
 
 ![Fairy](fairy.png)
