@@ -3,4 +3,4 @@
 
 ## **About my Website**
 
-    <center><img src="fairy.png" ...></center>
+![Fairy](/fairy.png#center)
