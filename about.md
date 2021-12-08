@@ -3,6 +3,4 @@
 
 ## **About my Website**
 
-<p align="center">
-    <img scr="fairy.png" />
-</p>
+    <center><img src="fairy.png"...></center>center?
