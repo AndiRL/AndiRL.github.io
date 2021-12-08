@@ -1,4 +1,4 @@
-# **About arlang.me**
+# **arlang.me - About**
 
 ## Welcome to my Website
 
