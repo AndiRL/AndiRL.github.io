@@ -7,8 +7,10 @@ title: About
 
 
 
-<h1><p align="justify">
-    <a href="https://www.arlang.me/index.html">Home</a> <a href="https://www.arlang.me/about.html">About</a> <a href="https://www.arlang.me/contact.html">Contact</a>
+<h1><p text-align="justify">
+    <a href="https://www.arlang.me/index.html">Home</a> 
+    <a href="https://www.arlang.me/about.html">About</a> 
+    <a href="https://www.arlang.me/contact.html">Contact</a>
     </p></h1>
 
 
