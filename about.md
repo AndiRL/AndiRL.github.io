@@ -4,10 +4,10 @@ title: About
 ---
 
 
-# **Welcome to arlang.me**
+<center># **Welcome to arlang.me**</center>
 
 
-## **About my Website**
+<center>## **About my Website**</center>
 
 
 
