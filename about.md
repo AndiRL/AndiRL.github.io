@@ -4,8 +4,11 @@ title: About
 ---
 
 
+
+
+
 <h1><p align="justify">
-    [Home](https://www.arlang.me/index.html) | [about](https://www.arlang.me/about.html) | [contact](https://www.arlang.me/contact.html)
+    <a href="https://www.arlang.me/index.html">Home</a> <a href="https://www.arlang.me/about.html">About</a> <a href="https://www.arlang.me/contact.html">Contact</a>
     </p></h1>
 
 
