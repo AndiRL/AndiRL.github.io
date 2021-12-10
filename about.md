@@ -1,17 +1,16 @@
 ---
-layout: default
 title: About
 ---
 
 
-<h1><p align="center">
-    Welcome to arlang.me
-</p></h1>
-
-
 <h2><p align="center">
-    About my Website
+    Welcome to arlang.me
 </p></h2>
+
+
+<h3><p align="center">
+    About my Website
+</p></h3>
 
 
 
