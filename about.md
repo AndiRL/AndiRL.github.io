@@ -6,7 +6,7 @@ title: About
 
 
 
-<div> id="header">
+<div id="header">
     <h1>arlang.me</h1>
     <ul id="naw">
         <li><a href="https://www.arlang.me/index.html">Home</a></li>
