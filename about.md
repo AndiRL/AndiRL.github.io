@@ -8,19 +8,13 @@ title: About
     <div id="header">
         <h1><p align="center">arlang.me</p></h1>
         <ul id="nav">
-            <p align="left">
             <li><a href="https://www.arlang.me/index.html">Home</a></li>
-            </p>
-            <p align="center">
             <li><a href="https://www.arlang.me/about.html">About</a></li>
-            </p>
-            <p align="right">
             <li><a href="https://www.arlang.me/contact.html">Contact</a></li>
-            </p>
         </ul>
     </div>
     <div id="content">
-        <div class="section"><h2><p align="center">>About arlang.me</p><h2></div>
+        <div class="section"><h2><p align="center">About arlang.me</p><h2></div>
         <div class="section even">
             <p class="presentation">This is my about page</p>            
     </div>
