@@ -1,4 +1,5 @@
 ---
+layout: default
 title: About
 ---
 
@@ -9,11 +10,11 @@ title: About
 
 
 <h2><p align="center">
-    about my Website
+    About my Website
 </p></h2>
 
 
 
 <p align="center">
-    <img width="220" height="248" src="https://avatars.githubusercontent.com/u/93165207?v=4">
+    <img width="390" height="440" src="https://avatars.githubusercontent.com/u/93165207?v=4">
 </p>
