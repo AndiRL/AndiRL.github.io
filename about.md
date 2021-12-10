@@ -1,16 +1,12 @@
 ---
-title: About
+title: About | arlang.me
 ---
 
 
 <h2><p align="center">
-    Welcome to arlang.me
+    Welcome to my Website
 </p></h2>
 
-
-<h3><p align="center">
-    About my Website
-</p></h3>
 
 
 
