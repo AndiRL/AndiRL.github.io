@@ -6,12 +6,14 @@ title: About
 
 
 
-
-<h1><p align="justify">
-    <a href="https://www.arlang.me/index.html">Home</a> 
-    <a href="https://www.arlang.me/about.html">About</a> 
-    <a href="https://www.arlang.me/contact.html">Contact</a>
-    </p></h1>
+<div> id="header">
+    <h1>arlang.me</h1>
+    <ul id="naw">
+        <li><a href="https://www.arlang.me/index.html">Home</a></li>
+        <li><a href="https://www.arlang.me/about.html">About</a></li> 
+        <li><a href="https://www.arlang.me/contact.html">Contact</a></li>
+    </ul>
+</div>
 
 
 <h2><p align="center">
